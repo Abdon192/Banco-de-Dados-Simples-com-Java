@@ -1,7 +1,7 @@
 # Banco-de-Dados-Simples-com-Java
-CRUD simples com banco de dados MySQL em JAVA.
+CRUD simples com banco de dados MySQL em JAVA.<br />
 
-===================
+===================<br />
 Esse usou o driver mysql-connector-java-8.0.20.jar para se conectar com o banco de dados.
 ===================
 
